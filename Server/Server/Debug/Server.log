@@ -1,0 +1,9 @@
+﻿  Server.cpp
+c:\temp\курсач т_т\server\server\server.cpp(194): warning C4018: <: несоответствие типов со знаком и без знака
+c:\temp\курсач т_т\server\server\server.cpp(108): warning C4101: n: неиспользованная локальная переменная
+c:\temp\курсач т_т\server\server\server.cpp(413): warning C4101: score_array: неиспользованная локальная переменная
+c:\temp\курсач т_т\server\server\server.cpp(286): warning C4715: check_acc: значение возвращается не при всех путях выполнения
+c:\temp\курсач т_т\server\server\server.cpp(322): warning C4715: add_acc: значение возвращается не при всех путях выполнения
+c:\temp\курсач т_т\server\server\server.cpp(402): warning C4715: save: значение возвращается не при всех путях выполнения
+c:\temp\курсач т_т\server\server\server.cpp(359): warning C4715: open_save: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> C:\temp\Курсач Т_Т\Server\Debug\Server.exe

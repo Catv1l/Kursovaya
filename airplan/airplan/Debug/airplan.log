@@ -1,0 +1,10 @@
+﻿  authorization.cpp
+c:\temp\курсач т_т\airplan\airplan\gamewin.h(54): warning C4018: <: несоответствие типов со знаком и без знака
+c:\temp\курсач т_т\airplan\airplan\myform.h(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\temp\курсач т_т\airplan\airplan\registration.h(57): warning C4018: <: несоответствие типов со знаком и без знака
+c:\temp\курсач т_т\airplan\airplan\authorization.h(50): warning C4018: <: несоответствие типов со знаком и без знака
+  registration.cpp
+c:\temp\курсач т_т\airplan\airplan\registration.h(57): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  authorization.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  airplan.vcxproj -> C:\temp\Курсач Т_Т\airplan\Debug\airplan.exe
